@@ -1,0 +1,22 @@
+.cart-content{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.cart{
+    border: none;
+    background: transparent;
+    position: relative;
+}
+.icon{
+    font-size: 25px;
+    color: orange;
+}
+.item{
+    position: absolute;
+    top:-7px;
+    left: 35px;
+    font-weight: bold;
+}
+.money{
+    padding-left: 50px;
+}

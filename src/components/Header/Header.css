@@ -1,0 +1,17 @@
+.header-container{
+    text-align: center;
+}
+.nav-item{
+    background-color:black;
+    padding: 10px;
+}
+.nav-item a{
+    text-decoration: none;
+    color:#fff;
+    padding:8px 15px;
+    display: inline-block;
+    border-radius: 3px;
+}
+.nav-item a:hover{
+    background-color:orange;
+}

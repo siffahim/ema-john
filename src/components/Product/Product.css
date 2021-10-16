@@ -1,0 +1,22 @@
+.pd-container{
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid lightgray;
+}
+.pd-detail{
+    margin-left: 15px;
+}
+.pd-detail .fa-star{
+    color:orange;
+}
+.pd-name{
+    color:blue;
+}
+.btn-regular{
+    border: none;
+      background-color:orange;
+      color: #fff;
+      padding: 8px 20px;
+      border-radius: 3px;
+      margin-bottom: 5px;
+} 
